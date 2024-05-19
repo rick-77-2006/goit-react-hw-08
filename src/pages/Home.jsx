@@ -6,7 +6,7 @@ const Home = () => {
  
   return (
     <>
-      <DocumentTitle>Home</DocumentTitle>
+      <DocumentTitle>goit-react-hw-08</DocumentTitle>
       <div className={css.container}>
         <img src="https://media1.tenor.com/m/NYtoQSpUyJwAAAAC/flip.gif" alt="Phone gif" className={css.gif} />
         <h1 className={css.title}>
